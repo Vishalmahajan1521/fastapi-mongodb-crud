@@ -10,6 +10,7 @@ A simple backend REST API built using FastAPI and MongoDB to perform basic CRUD 
 
 ---
 ## Tech Stack
+- Python
 - FastAPI
 - MongoDB
 - Motor (Async MongoDB Driver)
